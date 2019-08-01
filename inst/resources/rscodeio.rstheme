@@ -8,7 +8,7 @@
 
   --separator: rgb(68, 68, 68);
   --toolbar: rgb(37, 37, 38);
-  --tab: rgb(45, 45, 45);
+  --tab: rgb(60, 60, 60);
   --selected-tab: var(--editor-background);
 
   /* syntax */
@@ -245,7 +245,7 @@
 }
 
 .ace_console_error {
-  color: #f48771;
+  color: #1944ff;
   background-color: #3e4042;
 }
 
